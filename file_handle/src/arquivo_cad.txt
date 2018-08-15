@@ -1,0 +1,32 @@
+      length   50.88
+          at point  X=   343.52  Y=   263.13  Z=     0.00
+          at point  X=   346.32  Y=   260.33  Z=     0.00
+          at point  X=   347.25  Y=   258.00  Z=     0.00
+          at point  X=   347.48  Y=   254.63  Z=     0.00
+          at point  X=   346.08  Y=   250.32  Z=     0.00
+          at point  X=   344.22  Y=   248.69  Z=     0.00
+          at point  X=   340.84  Y=   247.64  Z=     0.00
+          at point  X=   335.94  Y=   247.76  Z=     0.00
+          at point  X=   332.44  Y=   250.32  Z=     0.00
+          at point  X=   331.51  Y=   254.39  Z=     0.00
+          at point  X=   332.56  Y=   257.54  Z=     0.00
+          at point  X=   335.36  Y=   261.85  Z=     0.00
+          at point  X=   339.21  Y=   263.48  Z=     0.00
+		  at point  X=   343.52  Y=   263.13  Z=     0.00
+          at point  X=   346.32  Y=   260.33  Z=     0.00
+          at point  X=   347.25  Y=   258.00  Z=     0.00
+          at point  X=   347.48  Y=   254.63  Z=     0.00
+          at point  X=   346.08  Y=   250.32  Z=     0.00
+          at point  X=   344.22  Y=   248.69  Z=     0.00
+          at point  X=   340.84  Y=   247.64  Z=     0.00
+          at point  X=   335.94  Y=   247.76  Z=     0.00
+Press ENTER to continue:
+          at point  X=   343.64  Y=   263.24  Z=     0.00
+          at point  X=   343.52  Y=   263.13  Z=     0.00
+          at point  X=   346.32  Y=   260.33  Z=     0.00
+          at point  X=   347.25  Y=   258.00  Z=     0.00
+          at point  X=   347.48  Y=   254.63  Z=     0.00
+          at point  X=   346.08  Y=   250.32  Z=     0.00
+          at point  X=   344.22  Y=   248.69  Z=     0.00
+          at point  X=   340.84  Y=   247.64  Z=     0.00
+          at point  X=   335.94  Y=   247.76  Z=     0.00

@@ -1,0 +1,16 @@
+Eae psicão
+
+Você não pode apagar os arquivos "arquivo_cad.txt" e "arquivo_robo.txt"
+
+Você precisa alimentar o arquivo "arquivo_cad.txt" com os dados que vc quer converter
+
+Você precisa ter o python3 instalado na máquina
+
+Para rodar o software vc pode dar um double click no "file_handle.py"
+ou 
+Navegar até a pasta dos arquivos pelo prompt de comando e enviar o comando:
+python file_handle.py
+se não funcionar tente:
+python3 file_handle.py
+
+depois de ter rodado o software a saída vai estar no arquivo "arquivo_robo.txt"

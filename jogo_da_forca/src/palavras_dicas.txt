@@ -1,0 +1,93 @@
+PETROLEO,Tipo de oleo
+PETELECO,O que a crianca ganha quando faz arte
+REBOQUE,Tipo de veiculo
+CADEIRA,Mobilia  
+COLA,Material Escolar 
+DISCURSO,Mensagem Oral
+ELETRODOMESTICO,Mobilia
+ELETRONICA,Estudo
+ENGRENAGEM,Peca de Maquinas
+ESFOMEADO,Tipo de pessoa
+FERROVIA,Meio de Transporte 
+FORTALEZA,Cidade
+OFICINA,Lugar
+PALAVRA,Que todo orador tem
+PREOCUPACAO,Sentimento
+RADIOLOGIA,Medicina
+RADIOGRAFIA,Medicina
+GRANJA,Propriedade rural 
+IMBATIVEL,Hulk
+INDUSTRIA,Lugar
+LABIRINTO,Lugar
+LOBISOMEM,ser mitologico
+LOCOMOTIVA,Meio de Transporte 
+MASSAGISTA,Profissao
+MATADOURO,Lugar
+MOCHILA,Material Escolar
+NOROESTE,Lugar
+NITROGLICERINA,Substancia
+HELICOPTERO,Meio de Transporte 
+CAPITALISMO,Sistema Economico
+SOFTWARE,Estudo
+ENGENHARIA,profissao
+LINUX,Computador
+PROCESSADOR,Computador
+XAROPE,Medicina
+BAIXISTA,musica
+AVESTRUZ,Animal
+QUIMICA,Estudo
+TRIGONOMETRIA,Estudo
+cavalo,animal
+galinha,animal
+gato,animal
+motocicleta,meio de transporte
+carro,meio de transporte
+onibus,meio de transporte
+laranja,fruta
+morango,fruta
+amora,fruta
+faca,objeto para cortar
+tesoura,objeto para cortar
+guilhotina,objeto para cortar
+refrigerante,bebiba
+agua,bebida
+cerveja,bebida
+teclado,instrumento musical
+flauta,instrumento musical
+bateria,instrumento musical
+karate,esporte
+basquete,esporte
+atletismo,esporte
+caderno,material escolar
+grafite,material escolar
+esquadro,material escolar
+alce,animal
+andorinha,animal
+babuino,animal
+cabra,animal
+caracol,animal
+caranguejo,animal
+carneiro,animal
+castor,animal
+cisne,animal
+cobra,animal
+coelho,animal
+coiote,animal
+corvo,animal
+crocodilo,animal
+gazela,animal
+golfinho,animal
+guaxinim,animal
+iguana,animal
+jaguar,animal
+javali,animal
+lhama,animal
+mula,animal
+ostra,animal
+pantera,animal
+pelicano,animal
+rouxinol,animal
+ratazana,animal
+salamandra,animal
+zebra,animal
+lagosta,animal
